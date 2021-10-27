@@ -8,5 +8,6 @@ print("I 'm loving this short story I 'm reading, \"The Fall of the House of Ush
 sentence = "I 'm loving this short story I 'm reading, \"The Fall of the House of Usher\""
 print(len(sentence))
 
-str("apple")
-print(str("apple"(3)))
+fruit = "apple"
+charactor = fruit[3]
+print(charactor)
